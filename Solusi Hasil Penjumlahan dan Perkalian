@@ -1,0 +1,14 @@
+# cara menampilkan hasil
+m = 10
+print (m)
+print ("hasil m+m = ", m+m)
+print ("hasil mxm =", m*m)
+
+print ('----------')
+# menampilkan karakter
+kar_1 = 'to be rich is better'
+kar_2 = 'than to be poor'
+print(kar_1+' '+kar_2)
+print(kar_1[3:10])
+karakter = 'to be rich is better than tobe poor'
+print(karakter.split())
