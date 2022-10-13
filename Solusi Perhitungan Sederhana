@@ -1,0 +1,35 @@
+from math import sqrt
+# operasi perhitungan sederhana
+a = 10
+b = -4.5
+c = 5.0
+d = 5/2
+
+print(a+b)
+print("bentuk bilangan integer = ", int (b))
+print("bentuk bilangan float = ", float(a))
+print("perkalian c x d = ", c*d)
+print("-------------------------")
+print("contoh soal = tentukan kecepatan v (W (usaha) = 20; s(jarak)=13, t (waktu=2)")
+W = 20
+s = 13
+t = 2
+# v = s/t
+kecepatan = s/t
+print(kecepatan, "m/s")
+
+print("---------------")
+print("soal 1 = tentukan energi dalam J dari m = 9,31x10^-31; c = 3 x 10^8")
+m = 9.31*10**-31
+c = 3 * 10**8
+# energi: E = m x c^2
+E = m * c**2
+print (E)
+
+print ("-------------------")
+print ("soal 2 = tentukan periode dalam s (l = 0.5 m ; g = 9.8 m/s^2")
+l = 0.5
+g = 9.8
+# periode = 2 x pi x sqrt (1/g)
+periode = 2*pi*sqrt(1/g)
+print (periode)
