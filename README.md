@@ -1,2 +1,2 @@
-# Solusi-Permasalahan-Fisika-
-Terdiri dari beberapa solusi permasalahan matematika dan fisika sederhana. Solusi permasalahan matematika sederhana mulai dari menampilkan hasil penjumlahan dan perkalian, operasi perhitungan sederhana meliputi bilangan bulat dan desimal, dan operasi matriks. Adapun solusi permasalahn fisika sederhana, seperti menampilkan kecepatan, energi, dan periode. Serta menampilkan solusi numerik sin dan cos beserta grafik sinusoidal.
+# Solusi-Permasalahan-Sederhana-Fisika-
+Terdiri dari beberapa solusi sederhana, mulai dari permasalahan matematika sederhana hingga permasalahan fisika. Permasalahan matematika sederhana, seperti menampilkan hasil penjumlahan dan perkalian, operasi perhitungan sederhana meliputi bilangan bulat dan desimal, serta operasi matriks. Adapun solusi permasalahan fisika untuk menentukan kecepatan, energi, dan periode. Serta menampilkan solusi numerik sin dan cos beserta grafik sinusoidal.
