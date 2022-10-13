@@ -1,0 +1,18 @@
+from numpy import*
+# menampilkan matriks
+M = [[0,1,1,0], [2,3,2,1]]
+print(M)
+
+a = zeros ((3,3),int)
+print(a)
+print(" ")
+
+a[0] = [1,4,2]
+a[1,1] = 9
+a[2,0:2] = [9]
+print(a)
+
+from numpy import array
+print(' ')
+A = array([[2,3,4],[2,3,6]])
+print (A)
